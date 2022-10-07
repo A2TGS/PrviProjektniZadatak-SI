@@ -1,0 +1,35 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Tools </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="header">
+  <a href="index.html" class="logo">Advan's AI Genrated Art Gallery</a>
+  <div class="header-right">
+    <a href="tools.html"><b>Tools</b></a>
+    <a href="submit.html"><b>Submit</b></a>
+    <a href="aboutme.html"><b>About me</b></a>
+  </div>
+</div>
+
+<h1>DALL·E 2 can create original, realistic images and art from a
+text description. It can combine concepts, attributes, and styles.</h1>
+
+<div class="ytdalle">
+<iframe width="1232" height="693" src="https://www.youtube.com/embed/qTgPSKKjfVg" title="DALL·E 2 Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<footer>
+<p> Copyright 2022 </p>
+</footer>
+
+</body>
+</html>

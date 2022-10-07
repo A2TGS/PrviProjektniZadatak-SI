@@ -1,0 +1,49 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> About me </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="header">
+  <a href="index.html" class="logo">Advan's AI Genrated Art Gallery</a>
+  <div class="header-right">
+    <a href="tools.html"><b>Tools</b></a>
+    <a href="submit.html"><b>Submit</b></a>
+    <a href="aboutme.html"><b>About me</b></a>
+  </div>
+</div>
+
+<div class="about-section">
+  <h1>About Me Page</h1>
+  <p><b>Some text about who I am and what I do.</b></p>
+</div>
+
+
+  <div class="column">
+    <div class="card">
+      <div class="container">
+        <h2><b>Advan Hota</b></h2>
+        <p class="title"><u><b>Blog host</b></u></p>
+        <p><b>My name is Advan Hota. I am a student at Thrid gymansium in Sarajevo. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentally, a programmer. In as circuitous a reason as a philosopher is wont to offer, my school of thought is reliant on schooling my thought – thoroughly, regularly; keeping abreast of design, branding, advertising trends and solutions.</b></p>
+      </div>
+    </div>
+  </div>
+
+<div class="b">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11509.473931156253!2d18.376412438750247!3d43.84819066583969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758c9184092e631%3A0xd38f1c25d1238f9d!2sTre%C4%87a%20gimnazija!5e0!3m2!1sbs!2sba!4v1665097779726!5m2!1sbs!2sba" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+
+<footer>
+<p> Copyright 2022 </p>
+</footer>
+
+</body>
+</html>

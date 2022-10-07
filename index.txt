@@ -1,0 +1,55 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Gallery </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="header">
+  <a href="index.html" class="logo">Advan's AI Genrated Art Gallery</a>
+  <div class="header-right">
+    <a href="tools.html"><b>Tools</b></a>
+    <a href="submit.html"><b>Submit</b></a>
+    <a href="aboutme.html"><b>About me</b></a>
+  </div>
+</div>
+
+<div class="indexnaslov">
+<h1><b><i>Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API.</i></b></h1>
+
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="gridslika">
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/astronaut/horse/photo/0.jpg width="300px" ></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/astronaut/lounging/vaporwave/2.jpg width="300px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/astronaut/basketball/minimalist/0.jpg width="300px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/teddy_bears/groceries/one_line/0.jpg width="200px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/teddy_bears/groceries/egypt/4.jpg width="200px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/teddy_bears/ai_research/moon/4.jpg width="200px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/soup/portal/digital_art/1.jpg width="200px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/soup/planet/poster/1.jpg width="200px"></div>
+  <div class="box"><img src=https://cdn.openai.com/dall-e-2/demos/text2im/soup/portal/basquiat/1.jpg width="200px"></div>
+</div>
+
+
+
+
+
+
+<footer>
+<p> Copyright 2022 </p>
+</footer>
+
+</body>
+</html>
